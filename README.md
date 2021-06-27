@@ -1,1 +1,1 @@
-# SimpleDataAnalysis
+# Data Analysis Self Study
